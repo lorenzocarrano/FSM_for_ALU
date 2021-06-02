@@ -1,5 +1,6 @@
 Here's the FSM implementation in VHDL language and a Testbench.
 Some useful .do files are provided to make the ModelSim simulation easier and quicker.
+In order to simulate, in ModelSim promt execute the file CU_simulation.do
 
 Complete Instruction Set:
 
